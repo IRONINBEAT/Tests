@@ -1,0 +1,10 @@
+﻿  Test.cpp
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(121,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(122,42): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(131,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(137,98): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(137,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(235,23): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(236,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\IRONIN\source\repos\Test\Test\Test.cpp(165,10): warning C4101: check: неиспользованная локальная переменная
+  Test.vcxproj -> C:\Users\IRONIN\source\repos\Test\x64\Debug\Test.exe
